@@ -233,8 +233,7 @@ git commit -m "Initial Commit"
 
 git branch -M main
 
-git remote add origin https://github.com/YOUR_USERNAME/trading_bot.git
-
+git remote add origin https://github.com/Vikas-tiwari-dot/trading_bot.git
 git push -u origin main
 ```
 
@@ -247,7 +246,7 @@ Vikas Tiwari
 GitHub:
 
 ```text
-https://github.com/YOUR_USERNAME
+https://github.com/Vikas-tiwari-dot/trading_bot
 ```
 
 ---
